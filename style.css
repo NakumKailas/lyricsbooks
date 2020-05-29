@@ -23,7 +23,7 @@ body{
     height: 450px;
     border: 2px solid transparent;
     position: absolute;
-    background-image: url("../logo.pngno.png");
+    background-image: url("logo.pngno.png");
     background-size: 150px;
     background-position: center;
     background-repeat: no-repeat;
